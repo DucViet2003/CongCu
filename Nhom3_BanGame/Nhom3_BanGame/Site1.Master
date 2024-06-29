@@ -1,0 +1,81 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Nhom3_BanGame.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>GGame Studios</title>   
+    <link rel="stylesheet" href="css/site.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js">    </script>
+    <!--
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        -->
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <header id="header">
+        <img src="/images/logo2.png" alt="Logo" style="width: 200px; height: auto;"/>
+    </header>
+    <form id="form1" runat="server">       
+        <div class="myrow">
+            <div class="mycol-8">
+                    <a href="default.aspx">Trang chủ</a>
+                    <div style="display: inline-block; width: 10px;"></div>
+                    <a href="Quanly.aspx"><asp:Label ID="Quanly" runat="server" Text="Quản lý"/></a>
+            </div>
+            <div class="mycol-3">
+                    <asp:LinkButton ID="LoginBtn" runat="server" Text="Login" OnClick="btnDangNhap_Click"/>
+                    <asp:LinkButton ID="LogouBtn" runat="server" Text="Logout" OnClick="btnDangXuat_Click"/>
+                    <asp:LinkButton ID="SignInBtn" runat="server" Text="Signin" OnClick="btnDangKy_Click"/>
+                    <asp:Label ID="CurrentUser" runat="server" Text="" ></asp:Label>
+            </div>
+        </div>
+        <div class="myrow">
+            <div class="mycol-8">
+                <asp:ContentPlaceHolder ID="Noidung" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+
+            <div class="mycol-3">
+                <h1>Tin tức</h1>
+                <a href="https://gamek.vn/3-game-bom-tan-cuc-dinh-se-ra-mat-trong-thang-5-2024-178240501155542564.chn"><p>3 game bom tấn cực đỉnh sẽ ra mắt trong tháng 5/2024</p></a>
+                <a href="https://gamek.vn/5-bi-an-thu-vi-ma-khong-phai-ai-cung-biet-trong-fallout-4-178240430160947023.chn"><p>5 bí ấn thú vị mà không phải ai cũng biết trong Fallout 4</p></a>
+                <a href="https://gamek.vn/3-game-co-op-hap-dan-hoan-toan-mien-phi-tren-steam-178240501162254474.chn"><p>3 game co-op hấp dẫn, hoàn toàn miễn phí trên Steam</p></a>
+            </div>
+        </div>
+
+
+        <%--<div class="row">
+            <div class="navbar-collapse collapse">
+                <div class="col-sm-9">
+                    <ul class="nav navbar-nav" style="font-weight: bold;">
+                    <li><a href="default.aspx">Trang chủ</a></li>
+                    <li><a href="Quanly.aspx"><asp:Label ID="Quanly" runat="server" Text="Quản lý"/></a></li>
+                </ul>
+                </div>
+                <div class="col-sm-3">
+                    <asp:LinkButton ID="LoginBtn" runat="server" Text="Login" OnClick="btnDangNhap_Click"/>
+                    <asp:LinkButton ID="LogouBtn" runat="server" Text="Logout" OnClick="btnDangXuat_Click"/>
+                    <asp:Label ID="CurrentUser" runat="server" Text="" ></asp:Label>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-9">
+                <asp:ContentPlaceHolder ID="Noidung" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>   
+
+            <div class="col-sm-3">
+                <h1>news</h1>
+                <a href="#"><p>creating HTML website</p></a>
+                <a href="#"><p>learn CSS</p></a>
+                <a href="#">learn C#</a>
+            </div>
+        </div>--%>
+    </form>
+</body>
+</html>

@@ -1,0 +1,295 @@
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\Nhom3_BanGame.dll.config
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\Nhom3_BanGame.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\Nhom3_BanGame.pdb
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csc.exe
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csc.exe.config
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csc.rsp
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csi.exe
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csi.exe.config
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csi.rsp
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.Managed.Core.targets
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.AppContext.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Collections.Immutable.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Console.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Globalization.Calendars.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.Compression.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.FileSystem.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Net.Http.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Net.Sockets.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Reflection.Metadata.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.ValueTuple.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.XmlDocument.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.XPath.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\vbc.exe
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\vbc.exe.config
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\vbc.rsp
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\VBCSCompiler.exe
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\VBCSCompiler.exe.config
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.csproj.AssemblyReference.cache
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.csproj.CoreCompileInputs.cache
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_Ba.88D3BE5F.Up2Date
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.dll
+E:\thương mại điện tử\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.pdb
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\Nhom3_BanGame.dll.config
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\Nhom3_BanGame.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\Nhom3_BanGame.pdb
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csc.exe
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csc.exe.config
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csc.rsp
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csi.exe
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csi.exe.config
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csi.rsp
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.Managed.Core.targets
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.AppContext.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Collections.Immutable.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Console.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Globalization.Calendars.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.Compression.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.FileSystem.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Net.Http.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Net.Sockets.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Reflection.Metadata.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.ValueTuple.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.XmlDocument.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.XPath.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\vbc.exe
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\vbc.exe.config
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\vbc.rsp
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\VBCSCompiler.exe
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\VBCSCompiler.exe.config
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.csproj.AssemblyReference.cache
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.csproj.CoreCompileInputs.cache
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_Ba.88D3BE5F.Up2Date
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.dll
+E:\thương mại điện tử\DoAnNhom3_BanGame\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.pdb
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.csproj.AssemblyReference.cache
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.csproj.CoreCompileInputs.cache
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.pdb
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\Nhom3_BanGame.dll.config
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\Nhom3_BanGame.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\Nhom3_BanGame.pdb
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csc.exe
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csc.exe.config
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csc.rsp
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csi.exe
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csi.exe.config
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csi.rsp
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.Managed.Core.targets
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.AppContext.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Collections.Immutable.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Console.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Globalization.Calendars.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.Compression.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.FileSystem.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Net.Http.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Net.Sockets.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Reflection.Metadata.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.ValueTuple.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.XmlDocument.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.XPath.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\vbc.exe
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\vbc.exe.config
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\vbc.rsp
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\VBCSCompiler.exe
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\VBCSCompiler.exe.config
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\thương mại điện tử\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_Ba.88D3BE5F.Up2Date
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\Nhom3_BanGame.dll.config
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\Nhom3_BanGame.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\Nhom3_BanGame.pdb
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csc.exe
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csc.exe.config
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csc.rsp
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csi.exe
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csi.exe.config
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csi.rsp
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Console.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Net.Http.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\vbc.exe
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\vbc.exe.config
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\vbc.rsp
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.csproj.CopyComplete
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.dll
+C:\Users\PC\Downloads\IS385Z_Nhom3\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.pdb
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\Nhom3_BanGame.dll.config
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\Nhom3_BanGame.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\Nhom3_BanGame.pdb
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csc.exe
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csc.exe.config
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csc.rsp
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csi.exe
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csi.exe.config
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\csi.rsp
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Console.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Net.Http.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\vbc.exe
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\vbc.exe.config
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\vbc.rsp
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.csproj.CopyComplete
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.dll
+C:\Users\PC\Downloads\CS434SE\Nhom3_BanGame\Nhom3_BanGame\obj\Debug\Nhom3_BanGame.pdb
