@@ -15,23 +15,23 @@
         <tr>
             <td>Tài Khoản</td>
             <td>
-                <asp:TextBox ID="txt_TK" runat="server"></asp:TextBox>
+                <asp:TextBox ID="txt_TKdk" runat="server"></asp:TextBox>
             </td>
         </tr>
         <tr>
             <td>Mật Khẩu</td>
             <td>
-                <asp:TextBox ID="txt_MK" runat="server" TextMode="Password"></asp:TextBox>                        
+                <asp:TextBox ID="txt_MKdk" runat="server" TextMode="Password"></asp:TextBox>                        
             </td>
         </tr>                   
         <tr>
             <td colspan="2">
-                <asp:Button ID="btnDangKy" runat="server" Text="Đăng Ký" />
+                <asp:Button ID="btnDangKy" runat="server" OnClick="btnDangKy_Click" Text="Đăng Ký" />
             </td>
         </tr>
         <tr>
             <td colspan="2">
-                <asp:Label ID="Label1" runat="server"></asp:Label>
+                <asp:Label ID="lblMessage" runat="server" ForeColor="Red" Font-Size="12px" Text="" />
             </td>
         </tr>
     </table>

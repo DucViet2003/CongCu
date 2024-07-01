@@ -22,22 +22,22 @@ namespace Nhom3_BanGame {
         protected global::System.Web.UI.WebControls.TextBox txt_Email;
         
         /// <summary>
-        /// txt_TK control.
+        /// txt_TKdk control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_TK;
+        protected global::System.Web.UI.WebControls.TextBox txt_TKdk;
         
         /// <summary>
-        /// txt_MK control.
+        /// txt_MKdk control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_MK;
+        protected global::System.Web.UI.WebControls.TextBox txt_MKdk;
         
         /// <summary>
         /// btnDangKy control.
@@ -49,12 +49,12 @@ namespace Nhom3_BanGame {
         protected global::System.Web.UI.WebControls.Button btnDangKy;
         
         /// <summary>
-        /// Label1 control.
+        /// lblMessage control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label1;
+        protected global::System.Web.UI.WebControls.Label lblMessage;
     }
 }
